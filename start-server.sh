@@ -1,0 +1,1 @@
+/usr/bin/env /usr/lib/jvm/java-11-openjdk-11.0.15.0.10-1.fc36.x86_64/bin/java @/tmp/cp_1h7brmmwpsd4atks7bcjfkenz.argfile com.microservice.payroll.PayrollApplication 
